@@ -1,16 +1,18 @@
 ## Hi there 👋
+I'm Yasuni , a passionate learner exploring AI and Robotics.🚀 
+## 🔧 My Skills: 
+- Python
+- GUI Development with Tkinter
+- API Intergraton
+- Basic AI Concepts
 
-<!--
-**YASZ0614/YASZ0614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 My Projects:
+- 📃 Expense Tracker
+- ✅ To-Do List App
+- 🌦️ Weather App
+  
+## How to Reach Me:
+- Email: yasuni.ekanayaka@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
